@@ -1,0 +1,17 @@
+Good README Generator
+
+My motivation was to create a command line app that can quickly and easily create a README file. This allows the project creator to devote more time to working on the project. I learned how to work with the Inquirer npm package as well as the fs module.
+
+Make sure to do an "npm install" before running this application.
+
+Run this by navigating to the folder in the command line then doing "node index.js", Then you can simply answer the prompts to generate a README file formatted in Markdown.
+
+None
+
+ Assignment from The Coding Boot Camp at UC San Diego Extension in Partnership With Trilogy Education Services, LLC, Full Stack Part-Time Flex, September 2021 Cohort
+
+Contribute by modifying the index.js file to add more questions or change the formatting.
+
+nmbeilke
+
+nmbeilke@gmail.com
