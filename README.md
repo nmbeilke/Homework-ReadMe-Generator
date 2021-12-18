@@ -11,7 +11,7 @@
     ## Installation 
     Make sure to do an "npm install" before running this application.
     ## Usage
-    Link to watch application running: https://watch.screencastify.com/v/Bp0i6qvTRgTwyfrhAcSP
+    Link to watch application running: https://watch.screencastify.com/v/kyM9e9gSaJoW8bUgVQrm
     Run this by navigating to the folder in the command line then doing "node index.js", Then you can simply answer the prompts to generate a README file formatted in Markdown.
     ## License
     None
